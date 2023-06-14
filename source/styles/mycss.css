@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
+body{
+    font-family:Michroma, serif;
+    background: radial-gradient( #4B21B5 0%, #856565 100%);
+}
+.nav-link{
+    color: aquamarine;
+}
+.navbar-nav .nav-link.active{
+    color: rgb(246, 207, 207);
+}
+.navbar-toggler {
+    background-color: rgb(231, 54, 54);
+}
+.navbar-brand img{
+    width: 40px;
+}
+
+.card{
+    background: radial-gradient( #4B21B5 0%, #856565 100%);
+    color: aquamarine;
+}
+.sidebar{
+    color: aquamarine;
+    background: radial-gradient( #4B21B5 0%, #856565 100%);
+}
+
+.card a{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.slide-text{
+    color:aquamarine
+}
